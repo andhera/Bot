@@ -1,4 +1,4 @@
-# Marie-Hindi
+# Bot-Hindi
 
 
 एक मॉड्यूलर टेलीग्राम पायथन बॉट python3 पर sqlalchemy डेटाबेस के साथ चल रहा है।
